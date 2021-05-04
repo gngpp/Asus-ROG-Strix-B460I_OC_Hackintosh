@@ -1,6 +1,19 @@
-# i7 10700 + ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
+# i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
 - OpenCore引导macOS 10.15.6 && win10
+
+## 硬件
+- **Motherboard:** Asus ROG Strix B460-I
+  * Ethernet: Intel® i219-V 1Gb Ethernet
+  * Audio Codec: Realtek ALCS1220A (Layout 7)
+  * Wireless: DW1560
+
+- **CPU:** Intel Core i7 10700
+- **dGPU:** Sapphire RX 570 ITX 8GB
+- **RAM:** Asgard 32GB 2x16GB DDR4 2666Mhz
+- **Storage:** WDS500G3X0C-00SJG0 512GB M.2 NVMe
+- **WiFi & Bluetooth:** DW1560 + NGFF M.2 Adapter
+- **Monitor:** Q2490W1
 
 ## 完美程度
 - 核显加速，显存1536mb；华擎5500XT ITX补全缓冲帧 显卡优化
