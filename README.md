@@ -1,6 +1,6 @@
 # i7 10700 + Rog B460I 核显 独显 Hackintosh EFI
 
-- opencore引导macOS 10.15.6 && win10 ltsc2019
+- OpenCore引导macOS 10.15.6 && win10
 
 ## 完美程度
 - 核显加速，显存1536mb；华擎5500XT ITX补全缓冲帧 显卡优化
