@@ -1,4 +1,4 @@
-# i7 10700 + ROG STRIX B460I 核显 独显 Hackintosh EFI
+# i7 10700 + ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
 - OpenCore引导macOS 10.15.6 && win10
 
