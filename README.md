@@ -15,6 +15,24 @@
 - **WiFi & Bluetooth:** DW1560 + NGFF M.2 Adapter
 - **Monitor:** Q2490W1
 
+## BIOS设置
+
+**关闭：**
+- Fast Boot
+- VT-d
+- CSM
+- Intel SGX
+- CFG Lock (No option in BIOS, Asus B460 motherboards are factory unlocked)
+
+**开启：**
+- VT-x
+- Above 4G decoding
+- Hyper-Threading
+- Execute Disable Bit
+- EHCI/XHCI Hand-off
+- OS type: Windows 8.1/10 UEFI Mode
+- DVMT Pre-Allocated (iGPU Memory): 64MB
+
 ## 完美程度
 - 核显加速，显存1536mb；华擎5500XT ITX补全缓冲帧 显卡优化
 - 睡眠正常（睡眠一晚上依旧可唤醒，笔者没遇到过BUG，用阿斯加特内存睡眠久了会沙雕，会出现频繁死机bug，重装跟换系统无解，最终是发现内存过热导致黑苹果检测关机）
