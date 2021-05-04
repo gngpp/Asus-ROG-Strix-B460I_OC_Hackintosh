@@ -2,6 +2,8 @@
 
 - OpenCore引导macOS 10.15.6 && win10
 
+---
+
 ## 硬件
 - **Motherboard:** Asus ROG Strix B460-I
   * Ethernet: Intel® i219-V 1Gb Ethernet
@@ -15,6 +17,8 @@
 - **WiFi & Bluetooth:** DW1560 + NGFF M.2 Adapter
 - **Monitor:** Q2490W1
 
+---
+
 ## BIOS设置
 
 **关闭：**
@@ -22,7 +26,7 @@
 - VT-d
 - CSM
 - Intel SGX
-- CFG Lock (No option in BIOS, Asus B460 motherboards are factory unlocked)
+- CFG Lock (主板没有这个选项不用设置)
 
 **开启：**
 - VT-x
@@ -32,6 +36,8 @@
 - EHCI/XHCI Hand-off
 - OS type: Windows 8.1/10 UEFI Mode
 - DVMT Pre-Allocated (iGPU Memory): 64MB
+
+---
 
 ## 完美程度
 - 核显加速，显存1536mb；华擎5500XT ITX补全缓冲帧 显卡优化
