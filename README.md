@@ -11,7 +11,7 @@
   * Wireless: DW1560
 
 - **CPU:** Intel Core i7 10700
-- **dGPU:** Sapphire RX 570 ITX 8GB
+- **dGPU:** ASRock RX 5500XT ITX 8GB
 - **RAM:** Asgard 32GB 2x16GB DDR4 2666Mhz
 - **Storage:** WDS500G3X0C-00SJG0 512GB M.2 NVMe
 - **WiFi & Bluetooth:** DW1560 + NGFF M.2 Adapter
