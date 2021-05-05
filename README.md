@@ -1,10 +1,10 @@
 # i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
-- OpenCore引导macOS 10.15.6 && win10
+- OpenCore引导macOS 10.15.6 (支持bigsur) && win10
 
 ---
 
-## 硬件
+### 硬件
 - **Motherboard:** Asus ROG Strix B460-I
   * Ethernet: Intel® i219-V 1Gb Ethernet
   * Audio Codec: Realtek ALCS1220A (Layout 7)
@@ -19,7 +19,7 @@
 
 ---
 
-## BIOS设置
+### BIOS设置
 
 **关闭：**
 - Fast Boot
@@ -39,7 +39,7 @@
 
 ---
 
-## 完美程度
+### 完美程度
 - 核显加速，显存1536mb；华擎5500XT ITX补全缓冲帧 显卡优化
 - 睡眠正常（睡眠一晚上依旧可唤醒，笔者没遇到过BUG，用阿斯加特内存睡眠久了会沙雕，会出现频繁死机bug，重装跟换系统无解，最终是发现内存过热导致黑苹果检测关机）
 - cpu睿频正常，单核4.8，全核4.6
@@ -52,12 +52,11 @@
 
 ---
 
-## 具体不详细介绍，说一些细节
-- 显示器输出为dp转mini dp，好像加了一个mini dp补丁，具体没在意
+### 具体不详细介绍，说一些细节
 - 记得修改platforminfo里面的串号，以免不能登陆app store
 - 显示器输出支持HDMI DP 核显独显都支持
-- 若可以修复bug记得提Pr
+- 若有bug并且可以修复，记得提Pr
 
 ---
 
-## 制作不易，有能力能顺手给我点一下star再好不过
+### 制作不易，有能力能顺手给我点一下star再好不过
