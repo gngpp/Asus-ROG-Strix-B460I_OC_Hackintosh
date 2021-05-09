@@ -1,6 +1,6 @@
 # i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
-- OpenCore引导macOS 10.15.6 (支持bigsur) && win10
+- OpenCore引导macOS 10.15.6 (支持bigsur，本人在10.15.6一路升级到11.3.1无任何问题) && win10
 
 ---
 
