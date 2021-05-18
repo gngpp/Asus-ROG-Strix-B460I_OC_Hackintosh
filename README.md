@@ -1,5 +1,4 @@
-<img src="images/96697A38-7C60-43A3-9DD3-ACDC3A911D8B.png">
-<img src="images/900AB55B-09C1-4597-8933-8A43BCEB9152.png">
+<img src="images/neofetch.png">
 # i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
 - OpenCore引导macOS 10.15.6 (支持bigsur，本人在10.15.6一路升级到11.3.1无任何问题) && win10
