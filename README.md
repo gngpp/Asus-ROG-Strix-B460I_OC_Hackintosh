@@ -1,24 +1,25 @@
 <img src="images/neofetch.png">
 
-# i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
+## i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
 - OpenCore引导macOS 10.15.6 (支持bigsur，本人在10.15.6一路升级到11.3.1无任何问题) && win10
 
 ---
 
-### 硬件
-- **Motherboard:** Asus ROG Strix B460-I
-  * Ethernet: Intel® i219-V 1Gb Ethernet
-  * Audio Codec: Realtek ALCS1220A (Layout 7)
-  * Wireless: DW1560
 
-- **CPU:** Intel Core i7 10700
-- **dGPU:** （ASRock）Radeon RX 5500 XT Challenger ITX 8G 1717MHz 8GHz GDDR6 
-- **RAM:** Asgard 32GB 2x16GB DDR4 2666Mhz
-- **Storage:** WDS500G3X0C-00SJG0 512GB M.2 NVMe
-- **WiFi & Bluetooth:** DW1560 + NGFF M.2 Adapter
-- **Monitor:** Q2490W1
+### 电脑配置
 
+| 规格     | 详细信息                                     |
+| -------- | ---------------------------------------- |
+| 主板型号 | Asus ROG Strix B460-I             |
+| 处理器   | Intel Core i7 10700           |
+| 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
+| 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
+| 显卡 | （ASRock）Radeon RX 5500 XT Challenger ITX 8G 1717MHz 8GHz GDDR6                            |
+| 显示器   | Q2490W1  |
+| 声卡     | Realtek ALCS1220A (Layout 7)                    |
+| 网卡&蓝牙     | DW1560 + NGFF M.2 Adapter                             |
+| 板载网卡 | Intel® i219-V 1Gb Ethernet |
 ---
 
 ### BIOS设置
