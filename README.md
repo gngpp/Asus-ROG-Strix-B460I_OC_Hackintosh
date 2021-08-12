@@ -1,5 +1,5 @@
+# 停止维护（由于笔者更换主板了MSI-Z490I，该项目不再维护，目前最高支持11.3.1版本系统，如果追求稳定性，建议使用Catalina，没有必要往上升级)
 <img src="images/neofetch.png">
-
 ## i7 10700 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
 - OpenCore引导macOS 10.15.7 (支持BigSur，笔者在10.15.6一路升级到11.3.1无任何问题) && Ubuntu 20.04 && win10
