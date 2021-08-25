@@ -47,6 +47,8 @@
 			<false/>
 			<key>ResetLogoStatus</key>
 			<false/>
+			<key>SyncTableIds</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>Booter</key>
@@ -90,6 +92,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
+			<key>ForceBooterSignature</key>
+			<false/>
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
@@ -116,41 +120,6 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>@0,name</key>
-				<string>ATY,Python</string>
-				<key>@1,name</key>
-				<string>ATY,Python</string>
-				<key>@2,name</key>
-				<string>ATY,Python</string>
-				<key>@3,name</key>
-				<string>ATY,Python</string>
-				<key>AAPL00,DualLink</key>
-				<data>AQAAAA==</data>
-				<key>ATY,Card#</key>
-				<string>102-D32200-00</string>
-				<key>ATY,Copyright</key>
-				<string>Copyright AMD Inc. All Rights Reserved. 2005-2019</string>
-				<key>ATY,DeviceName</key>
-				<string>W5500X</string>
-				<key>ATY,EFIVersion</key>
-				<string>01.01.190</string>
-				<key>ATY,FamilyName</key>
-				<string>Radeon Pro</string>
-				<key>ATY,Rom#</key>
-				<string>113-D3220E-190</string>
-				<key>PP_PhmSoftPowerPlayTable</key>
-				<data>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</data>
-				<key>device_type</key>
-				<string>ATY,PythonParent</string>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>model</key>
-				<string>Radeon Pro W5500X</string>
-				<key>name</key>
-				<string>ATY_GPU</string>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>#device-id</key>
@@ -625,6 +594,10 @@
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<false/>
+			<key>ProvideCurrentCpuInfo</key>
+			<false/>
+			<key>SetApfsTrimTimeout</key>
+			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
@@ -632,6 +605,8 @@
 		</dict>
 		<key>Scheme</key>
 		<dict>
+			<key>CustomKernel</key>
+			<false/>
 			<key>FuzzyMatch</key>
 			<false/>
 			<key>KernelArch</key>
@@ -652,6 +627,10 @@
 			<string>None</string>
 			<key>HideAuxiliary</key>
 			<true/>
+			<key>LauncherOption</key>
+			<string>Disabled</string>
+			<key>LauncherPath</key>
+			<string>Default</string>
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
@@ -699,6 +678,8 @@
 				<string>Not signed for security reasons</string>
 				<key>Enabled</key>
 				<false/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>CustomOS</string>
 				<key>Path</key>
@@ -713,14 +694,14 @@
 			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
+			<key>AllowToggleSip</key>
+			<false/>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
 			<false/>
 			<key>BlacklistAppleUpdate</key>
 			<false/>
-			<key>BootProtect</key>
-			<string>Bootstrap</string>
 			<key>DmgLoading</key>
 			<string>Signed</string>
 			<key>EnablePassword</key>
@@ -764,7 +745,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>agdpmod=pikera</string>
+				<string>igfxonln=1 igfxagdc=0</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -830,7 +811,9 @@
 		<false/>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseWindows</key>
+			<key>AdviseFeatures</key>
+			<false/>
+			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
 			<string>C02914700CDLNV91F</string>
@@ -857,6 +840,8 @@
 		<true/>
 		<key>UpdateSMBIOSMode</key>
 		<string>Create</string>
+		<key>UseRawUuidEncoding</key>
+		<false/>
 	</dict>
 	<key>UEFI</key>
 	<dict>
@@ -875,6 +860,21 @@
 			<key>MinVersion</key>
 			<integer>0</integer>
 		</dict>
+		<key>AppleInput</key>
+		<dict>
+			<key>AppleEvent</key>
+			<string>Auto</string>
+			<key>CustomDelays</key>
+			<false/>
+			<key>KeyInitialDelay</key>
+			<integer>50</integer>
+			<key>KeySubsequentDelay</key>
+			<integer>5</integer>
+			<key>PointerSpeedDiv</key>
+			<integer>1</integer>
+			<key>PointerSpeedMul</key>
+			<integer>1</integer>
+		</dict>
 		<key>Audio</key>
 		<dict>
 			<key>AudioCodec</key>
@@ -888,7 +888,9 @@
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
-			<string></string>
+			<string>Auto</string>
+			<key>ResetTrafficClass</key>
+			<false/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
@@ -908,8 +910,6 @@
 			<false/>
 			<key>KeyForgetThreshold</key>
 			<integer>5</integer>
-			<key>KeyMergeThreshold</key>
-			<integer>2</integer>
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
@@ -933,6 +933,8 @@
 			<false/>
 			<key>ForceResolution</key>
 			<false/>
+			<key>GopPassThrough</key>
+			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
@@ -958,7 +960,7 @@
 			<false/>
 			<key>AppleDebugLog</key>
 			<false/>
-			<key>AppleEvent</key>
+			<key>AppleEg2Info</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
@@ -991,12 +993,22 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>ActivateHpetSupport</key>
+			<false/>
+			<key>DisableSecurityPolicy</key>
+			<false/>
+			<key>EnableVectorAcceleration</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<true/>
+			<key>ReloadOptionRoms</key>
+			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>
