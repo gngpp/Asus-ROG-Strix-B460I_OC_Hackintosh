@@ -1,4 +1,4 @@
-# 停止维护（由于笔者更换了MSI-Z490I主板，该项目EFI沦为二奶机EFI，不再维护，目前最高支持11.3.1版本系统，如果追求稳定性，建议使用Catalina，没有必要往上升级)
+# 停止维护（由于笔者更换了MSI-Z490I主板，该项目EFI沦为二奶机使用，不再提供更新维护，目前最高支持11.3.1版本系统，如果追求稳定性，建议使用Catalina，没有必要往上升级)
 - [请移步MSI-Z490I-Hackintosh](https://github.com/lion9966/MSI-Z490I-Unify-Hackintosh-OC-EFI)
 <img src="images/neofetch.png">
 ## i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 Hackintosh EFI
