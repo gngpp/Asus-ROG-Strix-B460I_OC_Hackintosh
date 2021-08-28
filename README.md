@@ -15,6 +15,8 @@
 | 主板型号 | Asus ROG Strix B460-I             |
 | 处理器   | Intel Core i5 10400           |
 | 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
+| 电源     | 益衡7145b 1U                    |
+| 机箱     | Lz a4核显机箱                    |
 | 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
 | 声卡     | Realtek ALCS1220A (Layout 7)                    |
 | 网卡&蓝牙     | DW1560 + NGFF M.2 Adapter                             |
