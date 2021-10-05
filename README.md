@@ -6,7 +6,7 @@
 
 <img src="images/neofetch.png">
 
-##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 Hackintosh EFI
+##  i5 10400 + ASUS ROG STRIX B460-I GAMING 独显 Hackintosh EFI
 
 - OpenCore引导macOS 10.15.7 (支持BigSur，笔者在10.15.6一路升级到11.3.1无任何问题) && Ubuntu 20.04 && win10
 
@@ -21,7 +21,8 @@
 | 处理器   | Intel Core i5 10400           |
 | 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
 | 电源     | 益衡7145b 1U                    |
-| 机箱     | Lz a4核显机箱                    |
+| 机箱     | Formula 2S                    |
+| 显卡     | 华擎5500XT ITX && HD630                    |
 | 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
 | 声卡     | Realtek ALCS1220A (Layout 7)                    |
 | 网卡&蓝牙     | DW1560 + NGFF M.2 Adapter                             |
@@ -59,7 +60,6 @@
   USB3.2Gen2x2未测试，没有这么高的设备，不过是系统识别出单独走线，符合官方描述，应该可达到20Gbps）
 - 有线网正常工作
 - 驱动 _DW1560 WIFI_ ，蓝牙正常
-- 4k@60显示器输出正常，内建识别，亮度及音量可通过 _MonitorControl_ 控制
 
 ---
 
