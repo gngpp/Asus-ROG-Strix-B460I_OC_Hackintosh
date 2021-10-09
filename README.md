@@ -4,7 +4,7 @@
 [![BIOS](https://img.shields.io/badge/BIOS-0707-brightgreen)](#)
 
 <img src="images/neofetch.png">
-<img src="images/IMG_8256.jpg">
+<img src="images/IMG_8256.JPG">
 
 ##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
 
