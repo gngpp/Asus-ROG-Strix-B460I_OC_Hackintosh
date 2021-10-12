@@ -6,9 +6,9 @@
 <img src="images/neofetch.png">
 <img src="images/IMG_8256.JPG">
 
-##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 独显 Hackintosh EFI
+##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 独显5500XT Hackintosh EFI
 
-- OpenCore引导macOS 10.15.7 (支持BigSur，笔者在10.15.6一路升级到11.3.1无任何问题) && Ubuntu 20.04 && win10
+- OpenCore引导macOS 10.15.7 (支持BigSur，目前最高支持11.3.1) && Ubuntu 20.04 && win10
 
 ---
 
