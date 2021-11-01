@@ -63,7 +63,7 @@
 
 ---
 
-### 一些细节
+### FAQ
 - 记得修改platforminfo里面的串号，以免不能登陆app store
 - 显示器输出支持HDMI DP 核显独显都支持
 - 若有bug并且可以修复，记得提PR
