@@ -37,7 +37,6 @@
 - VT-d
 - CSM
 - Intel SGX
-- CFG Lock (主板没有这个选项不用设置)
 
 **开启：**
 - VT-x
