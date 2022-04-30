@@ -5,7 +5,7 @@
 
 <img src="images/neofetch.png">
 
-##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 独显5500XT Hackintosh EFI
+##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 独显Radeon RX 560 4 GB Hackintosh EFI
 
 - OpenCore引导macOS 10.15.7 (支持BigSur，目前最高支持11.3.1) && Ubuntu 20.04 && win10
 
@@ -21,7 +21,7 @@
 | 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
 | 电源     | 益衡7145b 1U                    |
 | 机箱     | Formula 2S                    |
-| 显卡     | 华擎5500XT ITX && HD630                    |
+| 显卡     | Radeon RX 560 4 GB ITX && HD630                    |
 | 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
 | 声卡     | Realtek ALCS1220A (Layout 7)                    |
 | 网卡&蓝牙     | DW1560 + NGFF M.2 Adapter                             |
