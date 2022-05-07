@@ -37,6 +37,7 @@
 - VT-d
 - CSM
 - Intel SGX
+> 如果可以，建议把`Intel C-State`关闭，提高系统运行稳定性
 
 **开启：**
 - VT-x
