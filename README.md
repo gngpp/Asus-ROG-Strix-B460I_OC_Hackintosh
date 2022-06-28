@@ -6,8 +6,10 @@
 <img src="images/neofetch.png">
 
 ##  i5 10400 + ASUS ROG STRIX B460-I GAMING 核显 独显Radeon RX 560 4 GB Hackintosh EFI
-
-- OpenCore引导macOS 10.15.7 (支持BigSur，目前最高支持11.3.1) && Ubuntu 20.04 && win10
+> 支持OTA升级，建议使用镜像升级。
+- Catalina 10.15.x
+- BugSur 11.x
+- Monterey 12.4
 
 ---
 
