@@ -1,7 +1,6 @@
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.5-yellowgreen)](https://github.com/zf1976/ROG-Strix-B460I_OC_Hackintosh/releases/tag/0.6.5)
-[![macOS](https://img.shields.io/badge/macOS-10.15.7-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.1-yellowgreen)](https://github.com/zf1976/ROG-Strix-B460I_OC_Hackintosh/releases/tag/0.6.5)
+[![macOS](https://img.shields.io/badge/macOS-12.4-orange)](https://www.apple.com/macos/catalina/)
 [![MODEL](https://img.shields.io/badge/Model-B460I-blue)](https://www.asus.com/Motherboards/ROG-STRIX-B460-I-GAMING/)
-[![BIOS](https://img.shields.io/badge/BIOS-0707-brightgreen)](#)
 
 <img src="images/neofetch.png">
 
@@ -39,7 +38,6 @@
 - VT-d
 - CSM
 - Intel SGX
-> 如果可以，建议把`Intel C-State`关闭，提高系统运行稳定性
 
 **开启：**
 - VT-x
@@ -53,8 +51,8 @@
 ---
 
 ### 完美程度
-- 核显硬解加速，显存1536MB
-- 睡眠正常（睡眠一晚上依旧可唤醒，笔者暂时没遇到 _BUG_）
+- 核显硬解加速正常，显存1536MB
+- 睡眠正常
 - _CPU_ 睿频正常，单核4.3，全核4.0
 - 传感器正常工作、_CPU_ 温度、_SSD_ 温度风扇转速均可获取（通过iStat Menus查看）
 - 定制USB映射正常
